@@ -58,19 +58,23 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
 <h3 align="left">My GitHub Stats:</h3>
-<div>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </p>
-  <p style="clear: both;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
-  </p>
-</div>
+
+<!-- Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<!-- GitHub Stats -->
+<p style="margin-top: 10px; clear: both;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p style="margin-top: 10px;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
+</p>
+
 
 
 <!-- Roadmap -->
