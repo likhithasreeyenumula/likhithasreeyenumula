@@ -8,19 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- GitHub Profile Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <!-- Twitter Badge -->
-<p align="left">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
-</p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!-- About Me Section -->
 - 🔭 I’m currently working on **developing**  
@@ -92,3 +81,11 @@
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="Roadmap" />
 </a>
+
+
+<!-- GitHub Profile Trophy -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="GitHub Trophies" />
+  </a>
+</p>
