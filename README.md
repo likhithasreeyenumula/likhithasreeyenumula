@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="likhithasreeyenumula" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="likhithasreeyenumula" /></p>
-
+<a href="https://app.daily.dev/likhithasree"><img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha sree's Dev Card"/></a>
