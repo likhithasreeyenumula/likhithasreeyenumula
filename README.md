@@ -4,28 +4,33 @@
 </h3>
 
 <!-- Profile Views -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Twitter Badge -->
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
+  </a>
+</p>
 
 <!-- About Me Section -->
-- 🔭 I’m currently working on **developing**  
-- 🌱 I’m currently learning **.NET**  
-- 👨‍💻 All of my projects are available at 
-  [https://github.com/likhithasreeyenumula](https://github.com/likhithasreeyenumula)  
-- 💬 Ask me about **HTML, CSS**  
-- 📫 How to reach me **likhithasree1109@gmail.com**
+<p align="center">
+  🔭 I’m currently working on <strong>developing</strong><br>
+  🌱 I’m currently learning <strong>.NET</strong><br>
+  👨‍💻 All of my projects are available at 
+  <a href="https://github.com/likhithasreeyenumula">GitHub</a><br>
+  💬 Ask me about <strong>HTML, CSS</strong><br>
+  📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
+</p>
 
 <!-- Connect with Me Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<h3 align="center">Connect with me:</h3>
 
 <!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
@@ -58,38 +63,37 @@
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="center">My GitHub Stats:</h3>
 
 <!-- Top Languages -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
-<p style="margin-top: 10px; clear: both;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
-<p style="margin-top: 10px;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
+<p align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
 </p>
 
-
-
 <!-- Roadmap -->
-<h3 align="left">My Roadmap:</h3>
-<a href="https://roadmap.sh">
+<h3 align="center">My Roadmap:</h3>
+<a href="https://roadmap.sh" align="center">
   <img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="Roadmap" />
 </a>
 
 <!-- Daily Dev Card -->
-<h3 align="left">My Daily Dev Card:</h3>
+<h3 align="center">My Daily Dev Card:</h3>
 <a href="https://app.daily.dev/likhithasree">
   <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
 </a><br><br>
+
 <!-- GitHub Profile Trophy -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="GitHub Trophies" />
   </a>
