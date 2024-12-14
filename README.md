@@ -77,12 +77,13 @@
 
 <!-- GitHub Stats -->
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="likhithasreeyenumula" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
+  
 </p>
 
 <!-- Roadmap -->
