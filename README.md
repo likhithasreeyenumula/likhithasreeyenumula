@@ -4,7 +4,8 @@
 </h3>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/931bda7f-2b0c-411e-bfc1-e81ad7c15f28" alt="banner">
+  <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="banner">
+
 </p>
 
 
