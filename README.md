@@ -70,14 +70,25 @@
 </p>
 
 <!-- GitHub Stats -->
+<h3 align="left">My GitHub Stats:</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
 </p>
+
+<!-- Daily Dev Card -->
+<h3 align="left">My Daily Dev Card:</h3>
+<a href="https://app.daily.dev/likhithasree">
+  <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
+</a>
+
+<!-- Roadmap -->
+<h3 align="left">My Roadmap:</h3>
+<a href="https://roadmap.sh">
+  <img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="Roadmap" />
+</a>
