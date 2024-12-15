@@ -33,7 +33,10 @@
 
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
-
+<div align="center" >
+<a href="likhithasree1109@gmail.com" style="text-decoration: none;">Email</a><br>
+<a href="https://www.linkedin.com/in/likhitha-sree-228bb9341/" style="text-decoration: none;">Linked In</a><br>
+</div>
 <!-- Languages and Tools Section -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
