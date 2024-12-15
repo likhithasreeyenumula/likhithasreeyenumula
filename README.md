@@ -97,9 +97,7 @@
 
 <!-- Roadmap -->
 <h3 align="center">My Roadmap:</h3>
-<a href="https://roadmap.sh" align="center">
-  <img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="Roadmap" />
-</a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="roadmap.sh"/></a>
 
 <!-- Daily Dev Card -->
 <h3 align="center">My Daily Dev Card:</h3>
