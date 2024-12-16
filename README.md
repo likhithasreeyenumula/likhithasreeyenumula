@@ -32,7 +32,6 @@
 </p>
 
 
-
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me:</h3>
 <div align="center" >
@@ -89,17 +88,18 @@
 <h3 align="center">My GitHub Stats:</h3>
 
 <!-- Top Languages -->
-<p align="center">
+<img align="right" alt="code" width="400" src="https://github.com/user-attachments/assets/2ab4e509-6aa2-4cbf-8659-7e8d2bcfaeb1">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
-<p align="center" style="margin-top: 10px;">
+<p align="left" style="margin-top: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="likhithasreeyenumula" />
 </p>
 
 <!-- GitHub Streak -->
-<p align="center" style="margin-top: 10px;">
+<p align="left" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
   
 </p>
