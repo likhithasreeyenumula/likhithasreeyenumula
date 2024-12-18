@@ -86,11 +86,6 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 
-
-
-
-
-
 <!-- Top Languages -->
 <img align="right" alt="code" width="350" src="https://github.com/user-attachments/assets/2ab4e509-6aa2-4cbf-8659-7e8d2bcfaeb1">
 <p align="left">
@@ -104,7 +99,7 @@
 
 <!-- GitHub Streak -->
 <p align="left" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula" alt="GitHub Streak" />
   
 </p>
 
