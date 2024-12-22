@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
 <h3 align="center">
-  "Diploma student specializing in Computer Engineering, passionate about coding and innovation."
+  "Diploma student specializing in Computer Engineering, passionate about coding and innovation."  
 </h3>
     
 <p>
