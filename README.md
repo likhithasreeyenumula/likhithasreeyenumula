@@ -76,6 +76,8 @@
 <p align="left" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula" alt="GitHub Streak" />  
 </p>
+<h3 align="center">Stickers :</h3>
+<img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb">
 <h3 align="center">My Roadmap:</h3>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark" alt="roadmap.sh"/></a>
 <h3 align="center">My Daily Dev Card:</h3>
