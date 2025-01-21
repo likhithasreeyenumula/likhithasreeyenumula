@@ -82,7 +82,7 @@
 <img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772">
 <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57">
 <h3 align="center">My Roadmap:</h3>
-<img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 <h3 align="center">My Daily Dev Card:</h3>
 <a href="https://app.daily.dev/likhithasree">
   <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
