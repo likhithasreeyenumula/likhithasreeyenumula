@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="banner">
 </p>
 <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
-<h3 align="center">
+<h3 align="center">                           
   "Diploma student specializing in Computer Engineering, passionate about coding and innovation."
 </h3>
 <p align="center">
