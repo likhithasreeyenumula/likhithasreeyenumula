@@ -26,10 +26,12 @@
   <img align="center" src="https://github.com/user-attachments/assets/390d6cbc-3ca0-4e3d-8ef4-660f3c409d44" alt="Email" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-sree-228bb9341/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhitha-sree-228bb9341/" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="https://www.linkedin.com/in/likhitha-sree-228bb9341/" height="30" width="40" />
 </a>
 <a href="https://medium.com/https://medium.com/@likhithasree1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@likhithasree1109" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
+    alt="https://medium.com/@likhithasree1109" height="30" width="40" />
 </a>
 </div>
 <h3 align="center">Languages and Tools:</h3>
