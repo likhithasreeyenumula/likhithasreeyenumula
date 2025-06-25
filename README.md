@@ -68,7 +68,7 @@
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
-<img align="right" alt="code" width="350" src="https://github.com/user-attachments/assets/2ab4e509-6aa2-4cbf-8659-7e8d2bcfaeb1">
+<img align="right" alt="code" src="https://github.com/user-attachments/assets/2ab4e509-6aa2-4cbf-8659-7e8d2bcfaeb1" width="350" height="400">
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=likhithasreeyenumula&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
