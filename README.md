@@ -83,6 +83,7 @@
 <img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9"width="205" height="205">
 <img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772"width="205" height="205">
 <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57"width="205" height="205">
+<img src="https://www.credly.com/go/eGTMlq9pwpfGSLYCk0fapA"width="205" height="205">
 <h3 align="center">My Roadmap:</h3>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675cfb6aecc889bb0d886284?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 <h3 align="center">My Daily Dev Card:</h3>
