@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
 <h3 align="center"> 
-  "Diploma student specializing in Computer Engineering, passionate about coding and innovation."
+  "B-Tech student specializing in Computer Engineering, passionate about coding and innovation."
 </h3><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,22 +13,36 @@
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
   </a>
 </p>
-<p align="center">
+<p align="Left">
   🔭 I’m currently working on <strong>developing</strong><br>
-  🌱 I’m currently learning <strong>.NET</strong><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/likhithasreeyenumula">GitHub</a><br>
-  💬 Ask me about <strong>HTML, CSS</strong><br>
+  🌱 I’m currently Studying <strong>B-Tech</strong><br>
+  👨‍💻 All of my projects are available at <a href="https://devpost.com/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*11346tf*_gcl_au*MTYzMTUxODA3NC4xNzY1MDkzNDY5*_ga*MTgwOTI0Nzc4Ni4xNzM1OTYxOTEw*_ga_0YHJK3Y10M*czE3NjY2NzI4NDQkbzM5JGcxJHQxNzY2NjczMTE3JGo2MCRsMCRoMA..">Devpost</a><br>
+  💬 Ask me about <strong>Frontend</strong><br>
   📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sree-228bb9341" height="30" width="40" /></a>
-<a href="https://instagram.com/likhitha_1109/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likhitha_1109/?hl=en" height="30" width="40" /></a>
-<a href="https://medium.com/@likhithasree1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@likhithasree1109" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/likhithasree-in1up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="likhithasree-in1up" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="likhithaso98l" height="30" width="40" /></a>
-<a href="https://discord.gg/likki1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="likki1109" height="30" width="40" /></a>
+<a href="https://dev.to/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sree-228bb9341" height="30" width="40" />
+</a>
+<a href="https://instagram.com/likhitha_1109/?hl=en" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likhitha_1109/?hl=en" height="30" width="40" />
+</a>
+<a href="https://medium.com/@likhithasree1109" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@likhithasree1109" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/likhithasree-in1up" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="likhithasree-in1up" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="likhithaso98l" height="30" width="40" />
+</a>
+<a href="https://discord.gg/likki1109" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="likki1109" height="30" width="40" />
+</a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
