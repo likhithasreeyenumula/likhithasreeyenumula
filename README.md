@@ -118,7 +118,5 @@
   <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
 </a><br><br>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="likhithasreeyenumula" /></a> 
 </p>
