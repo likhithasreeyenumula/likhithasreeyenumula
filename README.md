@@ -20,20 +20,16 @@
   💬 Ask me about <strong>HTML, CSS</strong><br>
   📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
 </p>
-<h3 align="center">Connect with me:</h3>
-<div align="center" >
-<a href="likhithasree1109@email.com" target="_blank">
-  <img align="center" src="https://github.com/user-attachments/assets/390d6cbc-3ca0-4e3d-8ef4-660f3c409d44" alt="Email" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhitha-sree-228bb9341/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="https://www.linkedin.com/in/likhitha-sree-228bb9341/" height="30" width="40" />
-</a>
-<a href="https://medium.com/https://medium.com/@likhithasree1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-    alt="https://medium.com/@likhithasree1109" height="30" width="40" />
-</a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sree-228bb9341" height="30" width="40" /></a>
+<a href="https://instagram.com/likhitha_1109/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likhitha_1109/?hl=en" height="30" width="40" /></a>
+<a href="https://medium.com/@likhithasree1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@likhithasree1109" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/likhithasree-in1up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="likhithasree-in1up" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="likhithaso98l" height="30" width="40" /></a>
+<a href="https://discord.gg/likki1109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="likki1109" height="30" width="40" /></a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
