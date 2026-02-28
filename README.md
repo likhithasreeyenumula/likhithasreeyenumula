@@ -20,8 +20,8 @@
   💬 Ask me about <strong>HTML, CSS</strong><br>
   📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sree-228bb9341" height="30" width="40" /></a>
 <a href="https://instagram.com/likhitha_1109/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likhitha_1109/?hl=en" height="30" width="40" /></a>
