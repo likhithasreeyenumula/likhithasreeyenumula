@@ -100,7 +100,7 @@
 <p align="left" style="margin-top: 10px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&locale=en" alt="likhithasreeyenumula" />
 </p>
-<p align="left" style="margin-top: 10px;">
+<p align="left" style="margin-top: 5px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula" alt="GitHub Streak" />  
 </p>
 <h3 align="center">Stickers :</h3>
