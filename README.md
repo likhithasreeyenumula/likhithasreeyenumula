@@ -154,7 +154,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula&theme=tokyonight&row=1&column=7" />
+<img src="https://github.com/ryo-ma/github-profile-trophy" />
 </p>
 
 ---
