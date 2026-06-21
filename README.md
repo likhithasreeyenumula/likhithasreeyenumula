@@ -5,6 +5,42 @@
 <h3 align="center"> 
   "B-Tech student specializing in Computer Engineering, passionate about coding and innovation."
 </h3><br>
+<p align="Left">
+  </a><br><br><h3 align="center">🚀 About Me</h3>
+
+<p align="left">
+🎓 B.Tech Student specializing in Computer Engineering<br>
+💻 Passionate about Web Development, AI, and Problem Solving<br>
+🌱 Currently learning Full Stack Development and Artificial Intelligence<br>
+🏆 Active Hackathon Participant<br>
+💬 Ask me about HTML, CSS, JavaScript, Python, and Frontend Development<br>
+📫 Reach me: <strong>likhithasree1109@gmail.com</strong><br>
+⚡ Fun fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects.
+</p>
+
+<h3 align="center">🌟 Featured Projects</h3>
+
+<ul>
+<li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
+<li>🛒 <strong>FreshMart</strong> – Responsive grocery shopping website.</li>
+<li>🧩 <strong>Rubik's Cube Solver</strong> – Interactive cube solver built with HTML, CSS, and JavaScript.</li>
+</ul>
+
+<h3 align="center">🏆 Achievements</h3>
+
+<ul>
+<li>🚀 Participated in multiple hackathons.</li>
+<li>💡 Built AI and Web Development projects.</li>
+<li>📚 Active learner on Devpost, GeeksforGeeks, and Daily.dev.</li>
+</ul>
+  🔭 I’m currently working on <strong>developing</strong><br>
+  🌱 I’m currently Studying <strong>B-Tech</strong><br>
+  👨‍💻 All of my projects are available at <a href="https://devpost.com/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*11346tf*_gcl_au*MTYzMTUxODA3NC4xNzY1MDkzNDY5*_ga*MTgwOTI0Nzc4Ni4xNzM1OTYxOTEw*_ga_0YHJK3Y10M*czE3NjY2NzI4NDQkbzM5JGcxJHQxNzY2NjczMTE3JGo2MCRsMCRoMA..">Devpost</a><br>
+  💬 Ask me about <strong>Frontend</strong><br>
+  📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
+  <h3 align="center">
+💻 Computer Engineering Student | Frontend Developer | AI Enthusiast | Hackathon Participant 🚀
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
