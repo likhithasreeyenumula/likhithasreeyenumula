@@ -1,3 +1,4 @@
+```html
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="banner">
 </p>
@@ -12,7 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <a href="https://devpost.com/likhithasreeyenumula">
+    <img src="https://img.shields.io/badge/Devpost-Portfolio-blue?style=for-the-badge&logo=devpost" />
+  </a>
+</p>
+
+<hr>
 
 <h3 align="center">🚀 About Me</h3>
 
@@ -28,16 +35,17 @@
 ⚡ Fun Fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects.
 </p>
 
----
+<hr>
 
 <h3 align="center">🌟 Featured Projects</h3>
 
 <ul>
 <li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
 <li>🛒 <strong>FreshMart</strong> – Responsive grocery shopping website.</li>
+<li>🧩 <strong>Rubik's Cube Solver</strong> – Interactive cube solver built using HTML, CSS, and JavaScript.</li>
 </ul>
 
----
+<hr>
 
 <h3 align="center">🏆 Achievements</h3>
 
@@ -48,7 +56,7 @@
 <li>🌐 Created multiple responsive websites and frontend applications.</li>
 </ul>
 
----
+<hr>
 
 <h3 align="center">🌐 Connect With Me</h3>
 
@@ -82,7 +90,7 @@
 </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
@@ -90,7 +98,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,java,python,php,mysql,mongodb,nodejs,react,typescript,git,github,vscode" />
 </p>
 
----
+<hr>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -106,7 +114,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight" />
 </p>
 
----
+<hr>
+
+<h3 align="center">📋 GitHub Profile Summary</h3>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhithasreeyenumula&theme=tokyonight" />
+</p>
+
+<hr>
 
 <h3 align="center">📈 Contribution Graph</h3>
 
@@ -114,7 +130,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
 </p>
 
----
+<hr>
 
 <h3 align="center">🏅 Stickers</h3>
 
@@ -129,7 +145,7 @@
 <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="205" height="205">
 </p>
 
----
+<hr>
 
 <h3 align="center">🛣 My Learning Roadmap</h3>
 
@@ -139,7 +155,7 @@
 </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">📖 Daily.dev Card</h3>
 
@@ -149,14 +165,7 @@
 </a>
 </p>
 
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
-</p>
----
+<hr>
 
 <h3 align="center">🎯 2026 Goals</h3>
 
@@ -167,6 +176,8 @@
 ✅ Build Impactful Products <br>
 ✅ Participate in National Hackathons
 </p>
+
+<hr>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Let's connect and build something amazing together 🚀
