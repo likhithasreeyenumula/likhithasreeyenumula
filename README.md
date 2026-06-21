@@ -19,12 +19,16 @@
   👨‍💻 All of my projects are available at <a href="https://devpost.com/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*11346tf*_gcl_au*MTYzMTUxODA3NC4xNzY1MDkzNDY5*_ga*MTgwOTI0Nzc4Ni4xNzM1OTYxOTEw*_ga_0YHJK3Y10M*czE3NjY2NzI4NDQkbzM5JGcxJHQxNzY2NjczMTE3JGo2MCRsMCRoMA..">Devpost</a><br>
   💬 Ask me about <strong>Frontend</strong><br>
   📫 How to reach me: <strong>likhithasree1109@gmail.com</strong>
+  <h3 align="center">
+💻 Computer Engineering Student | Frontend Developer | AI Enthusiast | Hackathon Participant 🚀
+</h3>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="likhithasreeyenumula?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" height="30" width="40" />
 </a>
+  
 <a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sree-228bb9341" height="30" width="40" />
 </a>
@@ -117,7 +121,40 @@
 <h3 align="center">My Daily Dev Card:</h3>
 <a href="https://app.daily.dev/likhithasree">
   <img src="https://api.daily.dev/devcards/v2/4Gc1kXveYxWbGvm7CGMcP.png?type=wide&r=y1p" width="652" alt="Likhitha Sree's Dev Card" />
-</a><br><br>
+</a><br><br><h3 align="center">🚀 About Me</h3>
+
+<p align="left">
+🎓 B.Tech Student specializing in Computer Engineering<br>
+💻 Passionate about Web Development, AI, and Problem Solving<br>
+🌱 Currently learning Full Stack Development and Artificial Intelligence<br>
+🏆 Active Hackathon Participant<br>
+💬 Ask me about HTML, CSS, JavaScript, Python, and Frontend Development<br>
+📫 Reach me: <strong>likhithasree1109@gmail.com</strong><br>
+⚡ Fun fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects.
+</p>
+
+<h3 align="center">🌟 Featured Projects</h3>
+
+<ul>
+<li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
+<li>🛒 <strong>FreshMart</strong> – Responsive grocery shopping website.</li>
+<li>🧩 <strong>Rubik's Cube Solver</strong> – Interactive cube solver built with HTML, CSS, and JavaScript.</li>
+</ul>
+
+<h3 align="center">🏆 Achievements</h3>
+
+<ul>
+<li>🚀 Participated in multiple hackathons.</li>
+<li>💡 Built AI and Web Development projects.</li>
+<li>📚 Active learner on Devpost, GeeksforGeeks, and Daily.dev.</li>
+</ul>
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula" alt="likhithasreeyenumula" /></a> 
 </p>
