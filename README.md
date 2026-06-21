@@ -151,12 +151,10 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula&theme=onedark&no-frame=true&row=1&column=6" />
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
 </p>
 ---
 
