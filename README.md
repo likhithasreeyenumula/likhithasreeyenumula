@@ -35,7 +35,6 @@
 <ul>
 <li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
 <li>🛒 <strong>FreshMart</strong> – Responsive grocery shopping website.</li>
-<li>🧩 <strong>Rubik's Cube Solver</strong> – Interactive cube solver built using HTML, CSS, and JavaScript.</li>
 </ul>
 
 ---
