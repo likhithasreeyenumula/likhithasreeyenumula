@@ -57,7 +57,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/likhitha-sree-228bb9341" target="blank">
+<a href="https://linkedin.com/in/likhithasree_1109" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
@@ -69,7 +69,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.youtube.com/c/likhithasree-in1up" target="blank">
+<a href="https://www.youtube.com/@LikkiVerse" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 
