@@ -91,17 +91,18 @@ Modern and responsive home rental website.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight&hide_border=true" />
 </p>
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
