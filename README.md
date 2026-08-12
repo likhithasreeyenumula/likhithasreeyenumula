@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="banner">
+  <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
@@ -14,78 +14,73 @@
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+## 🚀 About Me
 
-<p align="left">
-🎓 B.Tech Student specializing in Computer Engineering<br>
-💻 Passionate about Web Development, Artificial Intelligence, and Problem Solving<br>
-🌱 Currently learning Full Stack Development and AI Technologies<br>
-🏆 Active Hackathon Participant<br>
-🔭 Working on AI-powered and Web Development Projects<br>
-👨‍💻 My Projects: <a href="https://devpost.com/likhithasreeyenumula">Devpost Portfolio</a><br>
-💬 Ask me about HTML, CSS, JavaScript, Python, and Frontend Development<br>
-📫 Reach me: <strong>likhithasree1109@gmail.com</strong><br>
-⚡ Fun Fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects.
-</p>
+- 🎓 B.Tech Student specializing in Computer Engineering
+- 💻 Passionate about Web Development, Artificial Intelligence, and Problem Solving
+- 🌱 Currently learning Full Stack Development and AI Technologies
+- 🏆 Active Hackathon Participant
+- 🔭 Working on AI-powered and Web Development Projects
+- 👨‍💻 Portfolio: [Devpost](https://devpost.com/likhithasreeyenumula)
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**
+- 📫 Reach me: **likhithasree1109@gmail.com**
+- ⚡ Fun Fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects
 
 ---
 
-<h3 align="center">🌟 Featured Projects</h3>
+## 🌟 Featured Projects
 
-<ul>
-<li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
-<li>🛒 <strong>Fresh Mart</strong> – Responsive grocery shopping website.</li>
-  <li><strong>House Rental Platform</strong>- Home Rental website</li>
-</ul>
+### 🩺 Repati Kosam
+AI-powered medication reminder and healthcare assistant.
 
----
+### 🛒 Fresh Mart
+Responsive grocery shopping website.
 
-<h3 align="center">🏆 Achievements</h3>
-
-<ul>
-<li>🚀 Participated in multiple Hackathons.</li>
-<li>💡 Built AI and Web Development Projects.</li>
-<li>📚 Active learner on Devpost, GeeksforGeeks, Medium, and Daily.dev.</li>
-<li>🌐 Created multiple responsive websites and frontend applications.</li>
-</ul>
+### 🏠 House Rental Platform
+Modern and responsive home rental website.
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+## 🏆 Achievements
+
+- 🚀 Participated in multiple Hackathons
+- 💡 Built AI and Web Development Projects
+- 📚 Active learner on Devpost, GeeksforGeeks, Medium, and Daily.dev
+- 🌐 Created multiple responsive websites and frontend applications
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://dev.to/likhithasreeyenumula" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/likhithasree_1109" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
 </a>
 
-<a href="https://linkedin.com/in/likhithasree_1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://dev.to/likhithasreeyenumula" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="30" />
 </a>
 
-<a href="https://instagram.com/likhitha_1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://medium.com/@likhithasree1109" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="30" />
 </a>
 
-<a href="https://medium.com/@likhithasree1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+<a href="https://www.youtube.com/@LikkiVerse" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30" />
 </a>
 
-<a href="https://www.youtube.com/@LikkiVerse" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+<a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="30" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
-
-<a href="https://discord.gg/likki1109" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+<a href="https://instagram.com/likhitha_1109" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" />
 </a>
 </p>
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+## 🛠️ Languages & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,java,python,php,mysql,mongodb,nodejs,react,typescript,git,github,vscode" />
@@ -93,46 +88,47 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<h3 align="center">🏅 Stickers</h3>
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb" width="205" height="205">
-<img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9" width="205" height="205">
-<br>
-<img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="205" height="205">
-<img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="205" height="205">
-<br>
-<img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772" width="205" height="205">
-<img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="205" height="205">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
 
-<h3 align="center">🛣 My Learning Roadmap</h3>
+## 🏅 Certifications & Badges
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb" width="180">
+<img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9" width="180">
+<img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="180">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="180">
+<img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772" width="180">
+<img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="180">
+</p>
+
+---
+
+## 🛣️ My Learning Roadmap
 
 <p align="center">
 <a href="https://roadmap.sh">
@@ -142,7 +138,7 @@
 
 ---
 
-<h3 align="center">📖 Daily.dev Card</h3>
+## 📖 Daily.dev Profile
 
 <p align="center">
 <a href="https://app.daily.dev/likhithasree">
@@ -152,24 +148,16 @@
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" />
-</p>
+- ✅ Become a Full Stack Developer
+- ✅ Master Artificial Intelligence
+- ✅ Contribute to Open Source Projects
+- ✅ Build Impactful Products
+- ✅ Participate in National & International Hackathons
+
 ---
-
-<h3 align="center">🎯 2026 Goals</h3>
-
-<p align="center">
-✅ Become a Full Stack Developer <br>
-✅ Master Artificial Intelligence <br>
-✅ Contribute to Open Source Projects <br>
-✅ Build Impactful Products <br>
-✅ Participate in National Hackathons
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Let's connect and build something amazing together 🚀
 </h3>
-```
