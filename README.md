@@ -34,7 +34,8 @@
 
 <ul>
 <li>🩺 <strong>Repati Kosam</strong> – AI-powered medication reminder and healthcare assistant.</li>
-<li>🛒 <strong>FreshMart</strong> – Responsive grocery shopping website.</li>
+<li>🛒 <strong>Fresh Mart</strong> – Responsive grocery shopping website.</li>
+  <li><strong>House Rental Platform</strong>- Home Rental website</li>
 </ul>
 
 ---
