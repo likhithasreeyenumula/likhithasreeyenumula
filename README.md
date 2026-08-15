@@ -126,7 +126,10 @@ Modern and responsive home rental website.
 <img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772" width="180">
 <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="180">
 </p>
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0dd6c5e9-a448-4637-9c7c-c60261ccd5c9" width="180">
+<img src="unnamed (1)" src="https://github.com/user-attachments/assets/288c5ab2-a4a2-46b8-b35f-898d7b57f718" width="180">
+</p>
 ---
 
 ## 🛣️ My Learning Roadmap
