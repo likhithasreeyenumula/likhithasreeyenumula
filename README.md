@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
-
 <h3 align="center">
 💻 Computer Engineering Student | Frontend Developer | AI Enthusiast | Hackathon Participant 🚀
 </h3>
