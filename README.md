@@ -23,9 +23,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**
 - 📫 Reach me: **likhithasree1109@gmail.com**
 - ⚡ Fun Fact: I enjoy solving Rubik's Cubes, Sudoku, and building innovative projects
-
 ---
-
 ## 🌟 Featured Projects
 
 ### 🩺 Repati Kosam
