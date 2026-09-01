@@ -128,9 +128,17 @@ Modern and responsive website concept for discovering and exploring rental prope
  <p align="center">
   <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="180" />
   <img src="https://github.com/user-attachments/assets/bf2d164c-6125-47a1-9a9c-2e911384c48f" width="180" />
-
+<img src="https://github.com/user-attachments/assets/a11f6250-9dba-4adc-9341-4e58ad35e27f" width="180" />
 </p>
 
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/3fa9b09b-e3ae-4e6e-acf1-4a17c05ed38a" width="180" />
+   <img src="https://github.com/user-attachments/assets/5fd02a1a-6bd9-4d5c-8af3-a25b810a4805" width="180" />
+  
+
+  
+</p>
  
 </p>
  
