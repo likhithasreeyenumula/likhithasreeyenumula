@@ -100,7 +100,7 @@ Modern and responsive website concept for discovering and exploring rental prope
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumul&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
