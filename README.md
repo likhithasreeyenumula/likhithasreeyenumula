@@ -205,10 +205,6 @@ Modern and responsive website concept for discovering and exploring rental prope
   <a href="https://auth.geeksforgeeks.org/user/likhithaso98l" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="30" />
   </a>
-
-  <a href="https://instagram.com/likhitha_1109" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" />
-  </a>
 </p>
 
 ---
