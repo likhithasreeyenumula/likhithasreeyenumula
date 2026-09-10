@@ -60,9 +60,13 @@ HTML CSS JavaScript
 📊 GitHub Statistics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=likhithasreeyenumula&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasreeyenumula&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight&hide_border=true" /> </p>
 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula&theme=tokyonight&no-frame=true&margin-w=10" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=likhithasreeyenumula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&theme=tokyo-night" alt="GitHub Contribution Graph" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasreeyenumula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+</p>
 🏅 Certifications & Badges
 <p align="center"> <img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb" width="180" /> <img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9" width="180" /> <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="180" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="180" /> <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="180" /> <img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="180" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/73093de0-66ee-454d-af4c-1f427f9d2772" width="180" /> <img src="https://github.com/user-attachments/assets/288c5ab2-a4a2-46b8-b35f-898d7b57f718" width="180" /> <img src="https://github.com/user-attachments/assets/a96dc8d9-42bf-4a3c-ba25-deff23cc169f" width="180" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/bf2d164c-6125-47a1-9a9c-2e911384c48f" width="180" /> <img src="https://github.com/user-attachments/assets/a11f6250-9dba-4adc-9341-4e58ad35e27f" width="180" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/cec9738d-0cb1-49ef-aaee-2c31db8da154" width="180" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/3fa9b09b-e3ae-4e6e-acf1-4a17c05ed38a" width="180" /> <img src="https://github.com/user-attachments/assets/5fd02a1a-6bd9-4d5c-8af3-a25b810a4805" width="180" /> </p>
 🛣️ My Learning Roadmap
