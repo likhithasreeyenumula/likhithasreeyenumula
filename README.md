@@ -85,13 +85,13 @@ HTML CSS JavaScript
 
 ## 📈 GitHub Contributions
 
+
 <p align="center">
-  <a href="https://github.com/likhithasreeyenumula">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=likhithasreeyenumula&theme=tokyonight&hide_border=true"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/0e75b6/likhithasreeyenumula"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 🏅 Certifications & Badges
