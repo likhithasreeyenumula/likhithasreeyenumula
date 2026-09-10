@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/user-attachments/assets/3e6cd5f0-7528-4465-84f7-07cc8e590541" alt="Likhitha Sree Banner" width="100%" /> </p> <h1 align="center">Hi 👋, I'm Likhitha Sree</h1>
 
 # 💫 About Me:
-<br>## 🚀 About Me<br><br>- 🎓 B.Tech Student specializing in **Computer Engineering**<br>- 💻 Passionate about **Web Development, Artificial Intelligence, and Problem Solving**<br>- 🌱 Currently learning **Full Stack Development and AI Technologies**<br>- 🏆 Active **Hackathon Participant**<br>- 🔭 Working on **AI-powered and Web Development Projects**<br>- 💡 Interested in building solutions for **real-world problems**<br>- 👨‍💻 Devpost: [likhithasreeyenumula](https://devpost.com/likhithasreeyenumula)<br>- 💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**<br>- 📫 Reach me at **likhithasree1109@gmail.com**<br>- ⚡ Fun Fact: I enjoy solving **Rubik's Cubes and Sudoku**
+- 🎓 B.Tech Student specializing in **Computer Engineering**<br>- 💻 Passionate about **Web Development, Artificial Intelligence, and Problem Solving**<br>- 🌱 Currently learning **Full Stack Development and AI Technologies**<br>- 🏆 Active **Hackathon Participant**<br>- 🔭 Working on **AI-powered and Web Development Projects**<br>- 💡 Interested in building solutions for **real-world problems**<br>- 👨‍💻 Devpost: [likhithasreeyenumula](https://devpost.com/likhithasreeyenumula)<br>- 💬 Ask me about **HTML, CSS, JavaScript, Python, and Frontend Development**<br>- 📫 Reach me at **likhithasree1109@gmail.com**<br>- ⚡ Fun Fact: I enjoy solving **Rubik's Cubes and Sudoku**
 
 
 ## 🌐 Socials:
