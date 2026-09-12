@@ -108,15 +108,15 @@ Modern and responsive website concept for discovering and exploring rental prope
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb" width="180" />
-  <img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9" width="180" />
-  <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="180" />
+  <img src="https://github.com/user-attachments/assets/017056c1-c206-4c04-847d-6b10180658cb" width="100" />
+  <img src="https://github.com/user-attachments/assets/56ea0a81-1496-4729-8a66-460fa85a1ab9" width="100" />
+  <img src="https://github.com/user-attachments/assets/476df8f2-41c8-434f-9c7d-bf22789cef57" width="100" />
 </p>
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="180" />
-    <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="180" />
-  <img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="180" />
+  <img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="100" />
+    <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="100" />
+  <img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="100" />
    
 </p>
 <p align="center">
