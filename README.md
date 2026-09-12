@@ -116,10 +116,11 @@ Modern and responsive website concept for discovering and exploring rental prope
 </p>
 
  <p align="center">
+   <img src="https://github.com/user-attachments/assets/3fa9b09b-e3ae-4e6e-acf1-4a17c05ed38a" width="130" />
   <img src="https://github.com/user-attachments/assets/5335ff51-fbba-4d4f-81af-2533bab9c110" width="130" />
-    <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="130" />
-  <img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="130" />
    
+  <img src="https://github.com/user-attachments/assets/6b2a21ed-2613-45e4-b7b0-37a00bf6344d" width="130" />
+    <img src="https://github.com/user-attachments/assets/0f7acb75-afb6-4b54-acf7-84d1e3592abb" width="130" />
 </p>
 <p align="center">
   
@@ -136,8 +137,8 @@ Modern and responsive website concept for discovering and exploring rental prope
 </p>
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/3fa9b09b-e3ae-4e6e-acf1-4a17c05ed38a" width="130" />
-   <img src="https://github.com/user-attachments/assets/d9b57cab-2d3f-46b6-844a-a07fcff36143" width="100" />
+  
+   <img src="https://github.com/user-attachments/assets/d9b57cab-2d3f-46b6-844a-a07fcff36143" width="130" />
    <img src="https://github.com/user-attachments/assets/5fd02a1a-6bd9-4d5c-8af3-a25b810a4805" width="130" />  
 <img src="https://github.com/user-attachments/assets/96a6bd4e-f673-4910-b32e-e3c3dee6b51f" width="130" />
 
