@@ -8,8 +8,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithasreeyenumula&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-##🚀 About Me
 
+## 🚀 About Me
+## 🌟 Featured Projects
 - 🎓 B.Tech Student specializing in **Computer Engineering**
 - 💻 Passionate about **Web Development, Artificial Intelligence, and Problem Solving**
 - 🌱 Currently learning **Full Stack Development and AI Technologies**
