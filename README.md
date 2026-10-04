@@ -10,7 +10,6 @@
 </p>
 
 ## 🚀 About Me
-## 🌟 Featured Projects
 - 🎓 B.Tech Student specializing in **Computer Engineering**
 - 💻 Passionate about **Web Development, Artificial Intelligence, and Problem Solving**
 - 🌱 Currently learning **Full Stack Development and AI Technologies**
